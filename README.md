@@ -24,7 +24,7 @@ const renuKapar = {
   launchedProjects: [
     "XSS Vulnerability Research",
     "IoT Health Monitoring System",
-    "Java Gym Management System"
+    "Gym Management System Java"
   ],
   certifications: ["AWS Cloud Foundations", "AWS Cloud Architecture"],
   status: "Learning, building, and breaking things (safely) 🔐",
