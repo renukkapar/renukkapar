@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Renu%20Kapar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSc%20Networking%20and%20IT%20Security%20Student&descAlignY=55&descSize=18" width="100%"/>
@@ -9,8 +8,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rae-kapar&color=7dd3fc&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Rae-kapar?label=Followers&style=flat-square&color=7dd3fc" />
+<img src="https://komarev.com/ghpvc/?username=renukkapar&color=7dd3fc&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/renukkapar?label=Followers&style=flat-square&color=7dd3fc" />
 
 </div>
 
@@ -41,7 +40,7 @@ const renuKapar = {
 
 Research and analysis of Cross-Site Scripting vulnerabilities including Stored, Reflected, and DOM-Based XSS attacks.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rae-kapar&repo=XSS-Vulnerability-Research&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=renukkapar&repo=XSS-Vulnerability-Research&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
 | Layer | Technology |
 |---|---|
@@ -49,7 +48,7 @@ Research and analysis of Cross-Site Scripting vulnerabilities including Stored, 
 | Languages | HTML, JavaScript |
 | Type | Security Research |
 
-🔗 **Code:** [View Repository](https://github.com/Rae-kapar/XSS-Vulnerability-Research)
+🔗 **Code:** [View Repository](https://github.com/renukkapar/XSS-Vulnerability-Research)
 
 <br/>
 
@@ -57,7 +56,7 @@ Research and analysis of Cross-Site Scripting vulnerabilities including Stored, 
 
 An IoT-based health monitoring system using Arduino sensors for real-time data collection and display.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rae-kapar&repo=Health-Monitoring-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=renukkapar&repo=Health-Monitoring-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
 | Layer | Technology |
 |---|---|
@@ -65,7 +64,7 @@ An IoT-based health monitoring system using Arduino sensors for real-time data c
 | Language | C++ |
 | Type | IoT / Embedded Systems |
 
-🔗 **Code:** [View Repository](https://github.com/Rae-kapar/Health-Monitoring-System)
+🔗 **Code:** [View Repository](https://github.com/renukkapar/Health-Monitoring-System)
 
 <br/>
 
@@ -73,7 +72,7 @@ An IoT-based health monitoring system using Arduino sensors for real-time data c
 
 A Java Swing-based Gym Management System developed using Object-Oriented Programming concepts.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rae-kapar&repo=Gym-Management-System-Java&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=renukkapar&repo=Gym-Management-System-Java&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
 | Layer | Technology |
 |---|---|
@@ -81,7 +80,7 @@ A Java Swing-based Gym Management System developed using Object-Oriented Program
 | UI | Java Swing |
 | Paradigm | Object-Oriented Programming |
 
-🔗 **Code:** [View Repository](https://github.com/Rae-kapar/Gym-Management-System-Java)
+🔗 **Code:** [View Repository](https://github.com/renukkapar/Gym-Management-System-Java)
 
 <br/>
 
@@ -105,20 +104,20 @@ A Java Swing-based Gym Management System developed using Object-Oriented Program
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rae-kapar&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rae-kapar&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=renukkapar&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renukkapar&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="48%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rae-kapar&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
+<img src="https://streak-stats.demolab.com?user=renukkapar&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rae-kapar&theme=nord&no-frame=true&no-bg=true&row=1&column=6" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=renukkapar&theme=nord&no-frame=true&no-bg=true&row=1&column=6" width="90%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rae-kapar&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=renukkapar&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%" />
 
 </div>
 
