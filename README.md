@@ -68,7 +68,7 @@ An IoT-based health monitoring system using Arduino sensors for real-time data c
 
 <br/>
 
-### 🔸 Java Gym Management System
+### 🔸 Gym Management System Java
 
 A Java Swing-based Gym Management System developed using Object-Oriented Programming concepts.
 
