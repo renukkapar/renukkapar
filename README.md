@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Renu%20Kapar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSc%20Networking%20and%20IT%20Security%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Renu%20KumariKapar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSc%20Networking%20and%20IT%20Security%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=BSc+Networking+%26+IT+Security+Student;Exploring+XSS+%26+Web+Vulnerabilities;Building+IoT+%26+Java+Projects;AWS+Cloud+Certified" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 ## 🧠 Who I Am
 
 ```typescript
-const renuKapar = {
+const renukumariKapar = {
   title: "BSc Networking & IT Security Student",
   stack: ["Java", "C++ (Arduino)", "HTML", "CSS", "AWS", "Cisco Packet Tracer"],
   launchedProjects: [
